@@ -145,6 +145,7 @@ If any of those don't work, double check your associations.  Sometimes the error
 * [Dan Hoying's solution](https://github.com/danhoying/micro_reddit)
 * [Aviv Levinsky's solution](https://github.com/pugsiman/micro-redit)
 * [Hassan Mahmoud's solution](https://github.com/HassanTC/Micro-Reddit)
+* [Andrea Tozzini's solution]https://github.com/clunizzi/micro-reddit) | [HerokuApp demo](https://warm-oasis-5703.herokuapp.com/)
 * Add your solution above this line!
 
 ## Additional Resources
